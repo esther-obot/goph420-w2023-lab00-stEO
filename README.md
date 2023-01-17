@@ -1,2 +1,4 @@
-# goph420-w2023-lab00-stEO
-Lab 0 goph 420
+GOPH 420 -inversion and parameter Estimation for Geophysicists
+*Semester:* W2023
+*Instructor: B. Karchewski
+*Author:* Esther Obot
