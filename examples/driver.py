@@ -2,7 +2,7 @@ import numpy as np
 
 from fem_1d_heat.element import (
         global_to_local,
-        shape,
+        shape_matrix,
         )
 
 
@@ -18,7 +18,7 @@ def main():
     print(f'testing global_to_local({z}, {z_e}): {global_to_local(z, z_e)}')
 
     s = 0.9
-    print(f'testing shape({s}): {shape(s)}')
+    print(f'testing shape({s}): {shape_matrix(s)}')
 
 
 if __name__ == '__main__':
