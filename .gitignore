@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # to ignore the macos backup file
 .DS_Store
+=======
+>>>>>>> 7277b7629d48ff09b0a16f28b44aa70c9406a3c3
